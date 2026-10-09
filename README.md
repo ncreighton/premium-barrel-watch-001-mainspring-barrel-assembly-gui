@@ -1,0 +1,2 @@
+# premium-barrel-watch-001-mainspring-barrel-assembly-gui
+Mainspring barrel assembly intimidates even experienced watchmakers—inconsistent documentation, scattered specifications, and assembly errors that cost hours of rework. This Notion template eliminates the guesswork by centralizing every critical detail in one organized, searchable workspace.  The Mainspring Barrel Assembly Guide transforms chaotic
